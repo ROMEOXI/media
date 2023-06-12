@@ -1,7 +1,26 @@
 {
-    "users": [
-        { "id": 1, "name": "Myra" }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mark Kozey",
+      "id": 2
+    },
+    {
+      "name": "Lindsey Stehr",
+      "id": 3
+    },
+    {
+      "name": "Loren Collier",
+      "id": 4
+    },
+    {
+      "name": "Kristin Bruen",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
