@@ -5,16 +5,24 @@
       "name": "Myra"
     },
     {
-      "name": "Mr. Alfred Homenick",
+      "name": "Daniel Conn",
       "id": 2
     },
     {
-      "name": "Freda D'Amore",
+      "name": "Marion Kilback",
       "id": 3
     },
     {
-      "name": "Olivia Pfannerstill",
+      "name": "Vernon Roberts",
       "id": 4
+    },
+    {
+      "name": "Tony Mayer",
+      "id": 5
+    },
+    {
+      "name": "Anthony Ebert PhD",
+      "id": 6
     }
   ],
   "albums": [],
