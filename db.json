@@ -39,6 +39,16 @@
       "albumId": 10,
       "url": "https://picsum.photos/seed/XfRMec1bQ/640/480",
       "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://picsum.photos/seed/LDD3wV0/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 10,
+      "url": "https://picsum.photos/seed/BqVefGenC/640/480",
+      "id": 9
     }
   ]
 }
