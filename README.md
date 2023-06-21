@@ -14,6 +14,12 @@ Features:
 
 ### Install packages
 
+```bash
+npm i
+```
+
+### Start the app
+
 In two separate terminal windows, run the following commands:
 
 Terminal Window 1:
